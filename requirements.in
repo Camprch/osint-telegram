@@ -1,0 +1,24 @@
+# Core
+python-dotenv
+pydantic
+loguru
+
+# Telegram
+telethon
+
+# OpenAI
+openai
+
+# HTTP & robustesse
+httpx
+tenacity
+
+# Database utils
+sqlite-utils
+
+# Embeddings et calcul vectoriel
+numpy
+tqdm
+
+# Dev (optionnel)
+black

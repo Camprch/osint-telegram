@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+.env
+*.db
+*.log
+# Telethon sessions
+*.session
+*.session-journal
+# SQLite local
+data/*.sqlite3
+data/*.db
+# Secrets locaux
+.secrets/
