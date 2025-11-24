@@ -7,6 +7,7 @@ Ce projet collecte automatiquement **tous les messages** des dernières 24h sur 
 Il fonctionne en mode totalement autonome grâce à **GitHub Actions** et un pipeline Python robuste.
 
 ### 🧩 Fonctionnalités principales
+
 - Collecte automatique des 24 dernières heures de messages.
 - Traduction contextuelle multilingue → français (via OpenAI).
 - Regroupement thématique par similarité sémantique (embeddings).
@@ -23,6 +24,7 @@ This project automatically gathers **public Telegram channel messages**, **trans
 It is fully autonomous thanks to **GitHub Actions** and a robust Python pipeline.
 
 ### 🧠 Key Features
+
 - Collects last 24h of Telegram messages.
 - Translates to French with contextual accuracy (OpenAI API).
 - Groups related messages via semantic embeddings.
@@ -118,7 +120,8 @@ docs/ → Documentation technique
 
 ---
 
-## 🧾 Licence
+## 📄 Licence
 
-Ce projet est sous licence MIT.  
+Ce projet est sous licence MIT.
 © 2025 – Camille Paroche (@Camprch)
+➡️ docs/LICENSE.md

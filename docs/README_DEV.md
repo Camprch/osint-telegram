@@ -150,7 +150,8 @@ TELEGRAM_MODE=user
 
     --publish envoie sur Telegram
 
-👤 Auteur
+📄 Licence
 
-@Camprch
-Licence MIT
+Ce projet est sous licence MIT.
+© 2025 – Camille Paroche (@Camprch)
+➡️ docs/LICENSE.md
