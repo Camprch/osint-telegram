@@ -44,17 +44,6 @@ Secrets requis :
 
 ---
 
-## 🧱 CI/CD (GitHub Actions)
-
-## 🔁 Exécution quotidienne
-Le workflow `.github/workflows/daily.yml` :
-1. installe l’environnement Python,  
-2. prépare le `.env` à partir des secrets,  
-3. exécute le pipeline complet,  
-4. publie sur Telegram,  
-5. upload le résumé `.md`,  
-6. notifie en cas d’erreur.
-
 ## 💬 Commandes disponibles
 
 python -m src.main --fetch-recent
